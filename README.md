@@ -3,7 +3,7 @@
 
 
 ## LINK
-**The URL of the GitHub:** 
+**The URL of the GitHub gist:** 
 https://gist.github.com/JulienneJulien/9a9cc4478d903bf38ebb0ca8ee05feb4
 
 ## Table of Content
